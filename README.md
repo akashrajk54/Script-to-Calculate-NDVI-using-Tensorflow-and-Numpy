@@ -1,0 +1,1 @@
+# Script-to-Calculate-NDVI-using-Tensorflow-and-Numpy
